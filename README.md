@@ -6,7 +6,10 @@ Course 1: Analyze Datasets and Train ML Models using AutoML
   - Amazon SageMaker:  
   - AWS Glue: a serverless data integration service that makes registering, discovering, preparing, and combining data (fully managed ETL: extract, transform, and load service).   
   - Amazon Athena: to run SQL queries on S3 using a distributed SQL engine called Presto.  
-  - AWS Data Wrangler: Python library to load and unload data from data lakes and databases.  
+  - AWS Data Wrangler: Python library to load and unload data from data lakes and databases.    
+- Open source  
+  - Feature Importance: SHAP (SHapley Additive exPlanation) https://github.com/slundberg/shap  
+  
 
 
   
