@@ -10,7 +10,10 @@ Course 1: Analyze Datasets and Train ML Models using AutoML
 - Open source  
   - Feature Importance: SHAP (SHapley Additive exPlanation) https://github.com/slundberg/shap    
     - Shaply values based on game theory (attrubute the outcome of the game (win or loss) to individual players involved in the game.
-    - 
+    - Explain predictions of a ML model:  
+      - Each feature value of training data instance is a player in a game  
+      - ML prediction is the payout (outcome of the game)  
+     - Using SHAP framework: can get local (how an individual feature contribute to final model) and global explanations (how data in its entirely contributes to the final model) 
   
 
 
