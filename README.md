@@ -13,7 +13,9 @@ Course 1: Analyze Datasets and Train ML Models using AutoML
     - Explain predictions of a ML model:  
       - Each feature value of training data instance is a player in a game  
       - ML prediction is the payout (outcome of the game)  
-     - Using SHAP framework: can get local (how an individual feature contribute to final model) and global explanations (how data in its entirely contributes to the final model) 
+     - Using SHAP framework: can get local (how an individual feature contribute to final outcome) and global explanations (how data in its entirely contributes to the final outcome from ML model)  
+     - SHAP can guarantee consistency and local accuracy  
+     - But SHAP can be very tim consuming 
   
 
 
