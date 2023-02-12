@@ -7,8 +7,9 @@
       - Python library to load and unload data from data lakes and databases.
       - Dataset - Viz - Transform - Statistical Bias Report - Feature Importance  
     - Amazon SageMaker Clarify: Statistical Bias Report - Model Bias Report - Explainability - Drift. Good for dataset with millions of rows.  
-        
-  - AWS Glue: a serverless data integration service that makes registering, discovering, preparing, and combining data (fully managed ETL: extract, transform, and load service).   
+    - Amazon SageMaker Autopilot: data exploration & transformation - identify ML problem - selecting ML algos - training and performing hyperparameter tuning. Containing Notebooks and source codes.  
+      
+   - AWS Glue: a serverless data integration service that makes registering, discovering, preparing, and combining data (fully managed ETL: extract, transform, and load service).   
   - Amazon Athena: to run SQL queries on S3 using a distributed SQL engine called Presto.      
 - Open source  
   - Feature Importance: SHAP (SHapley Additive exPlanation) https://shap.readthedocs.io/en/latest/     
