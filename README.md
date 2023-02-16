@@ -23,7 +23,21 @@
  ### Built-in algos  
    - Classification: XGBoost, k-NN  
    - Regression: Linear Learner, XGBoost  
-   - Time-series forcasting: DeepAR Forecasting  
+   - Time-series forcasting: DeepAR Forecasting (RNN models)  
+   - Clustering:  
+      - Dimensional reduction: PCA  
+      - Anomaly detection: Random Cun Forest - RCF
+      - Clustering / Grouping: k-means  
+      - Topic modeling: Latent Dirichlet Allocation (LDA), Neural Topic Model (NTM)  
+   - Image processing  
+      - Image classification: CNN
+      - Object detection:   
+      - Computer vision: Semantic Segmentation  
+   - Text analysis:  
+      - Machine translation: Sequence to Sequence  
+      - Text summarization: Sequence to Sequence   
+      - Speech to text: Sequence to Sequence   
+      - Text classification: Blazing Text       
   
   
 
