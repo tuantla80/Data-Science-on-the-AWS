@@ -19,7 +19,12 @@
       - ML prediction is the payout (outcome of the game)  
      - Using SHAP framework: can get local (how an individual feature contribute to final outcome) and global explanations (how data in its entirely contributes to the final outcome from ML model)  
      - SHAP can guarantee consistency and local accuracy  
-     - But SHAP can be very time consuming 
+     - But SHAP can be very time consuming   
+ - Built-in algos  
+  - Classification: XGBoost, k-NN  
+  - Regression: Linear Learner, XGBoost  
+  - Time-series forcasting: DeepAR Forecasting  
+  
   
 
 
