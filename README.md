@@ -10,7 +10,8 @@
     - Amazon SageMaker Autopilot: data exploration & transformation - identify ML problem - selecting ML algos - training and performing hyperparameter tuning. Containing Notebooks and source codes.  
       
    - AWS Glue: a serverless data integration service that makes registering, discovering, preparing, and combining data (fully managed ETL: extract, transform, and load service).   
-  - Amazon Athena: to run SQL queries on S3 using a distributed SQL engine called Presto.      
+  - Amazon Athena: to run SQL queries on S3 using a distributed SQL engine called Presto.  
+  - Amazon SageMaker Ground Truth: Data lanbeling
 - Open source  
   - Feature Importance: SHAP (SHapley Additive exPlanation) https://shap.readthedocs.io/en/latest/     
     - Shaply values based on game theory (attrubute the outcome of the game (win or loss) to individual players involved in the game.
