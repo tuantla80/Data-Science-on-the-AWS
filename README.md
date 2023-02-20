@@ -1,7 +1,7 @@
 # Coursera: Practical Data Science on the AWS Cloud Specialization  
 ## Course 1: Analyze Datasets and Train ML Models using AutoML  
 ### Tools  
-  - AWS S3  
+  - AWS S3 (Simple Storage Service)  
   - Amazon SageMaker:  
     - Amazon SageMaker Data Wrangler:  
       - Python library to load and unload data from data lakes and databases.
